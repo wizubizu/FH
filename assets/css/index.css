@@ -1026,6 +1026,7 @@ input[type="date"]:hover ~ .calendar_index{
 	.mf-10{font-size:10px !important;}
 	.mf-16{font-size:16px !important;}
 	.mf-17{font-size:17px !important;}
+	.mf-20{font-size:20px !important;}
 	.mf-22{font-size:22px !important;}
 	.mf-25{font-size:25px !important;}
 	.mf-40{font-size:40px !important;}
@@ -1226,109 +1227,6 @@ input[type="date"]:hover ~ .calendar_index{
 
 
 
-
-/*Tablets*/
-@media only screen 
-and (min-width: 768px) 
-and (max-width: 1024px) {
-
-
-
-
-	.th-400 { height:400px !important; }
-	.th-100p { height:100% !important; }
-
-
-
-	.tm-l-30 {margin-left:30px !important;}
-	.tm-l-35 {margin-left:35px !important;}
-	.tm-l-40 {margin-left:40px !important;}
-	.tm-l-30p {margin-left:30% !important;}
-	.tm-l-35p {margin-left:35% !important;}
-	.tm-l-40p {margin-left:40% !important;}
-
-
-
-	.tp-r-0{padding-right:0px !important;}
-	.tp-r-30{padding-right:30px !important;}
-
-
-
-	.tp-l-0{padding-left:0px !important;}
-	.tp-l-10{padding-left:10px !important;}
-	.tp-l-20{padding-left:20px !important;}
-	.tp-l-30{padding-left:30px !important;}
-	.tp-l-35{padding-left:35px !important;}
-	.tp-l-90p{padding-left:90% !important;}
-
-
-	.tf-18{font-size:18px !important;}
-	.tf-20{font-size:20px !important;}
-	.tf-28{font-size:28px !important;}
-
-	
-
-
-	.tp-0 {padding:0 !important;}
-
-
-	.tp-t-0 {padding-top:0px !important;}
-	.tp-t-30 {padding-top:30px !important;}
-
-
-	.tm-t-0{margin-top:0px !important;}
-	.tm-t-10{margin-top:10px !important;}
-	.tm-t-20{margin-top:20px !important;}
-
-
-	.tm-l-0 {margin-left:0px !important;}
-	.tm-l-16 {margin-left:16px !important;}
-	.tm-l-33p {margin-left:33% !important;}
-
-
-	.twidth-0 {width:0 !important;}
-	.twidth-217 {width:217px !important;}
-	.twidth-318 {width:318px !important;}
-	.twidth-355 {width:355px !important;}
-	.twidth-230 {width:230px !important;}
-	.twidth-250 {width:250px !important;}
-	/*.twidth-824 {width:824px !important;}*/
-	.twidth-50 {width:50% !important;}
-	.twidth-56 {width:56% !important;}
-	.twidth-61 {width:61% !important;}
-	.twidth-78 {width:78% !important;}
-	.twidth-81 {width:81% !important;}
-	.twidth-94 {width:94% !important;}
-	.twidth-100p {width:100% !important;}
-
-
-
-
-	/*.tapartment{
-	margin: 24px 80px !important;
-	}*/
-
-
-	.tcard{
-	position: absolute !important;
-    margin-left: 63% !important;
-    margin-top: -52% !important;
-}
-
-.tcard1{
-	position: absolute !important;
-    margin-left: 63% !important;
-    margin-top: -46% !important;
-}
-
-	.tapartment{
-	margin: 24px 60px !important;
-	}
-
-
-
-
-}
 
 
 
